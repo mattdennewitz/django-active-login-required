@@ -5,8 +5,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-active-login-required',
-    version='0.1.1',
-    description='',
+    version='0.1.2',
+    description='Django view decorator that ensures a user is both active and authenticated',
     author='Matt Dennewitz',
     author_email='mattdennewitz@gmail.com',
     url='http://github.com/mattdennewitz/django-active-login-required',
