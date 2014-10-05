@@ -1,7 +1,5 @@
-import os
 from setuptools import setup, find_packages
 
-# dependencies: Django, collection, itertools, autoslug
 
 setup(
     name='django-active-login-required',
